@@ -44,4 +44,3 @@ console.log("fn1(10)", fn1(10));*/
 const afn2 = value => 100 + value;
 console.log("afn2(1)", afn2(1));
 console.log("----------------");
-
