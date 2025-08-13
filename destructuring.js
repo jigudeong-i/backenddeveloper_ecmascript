@@ -101,27 +101,6 @@ console.log("------------------");
 
 
 
-
-
-
-// 여기까지 정리했음! 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* 배열의 결합 */
 const array1 = ['html', 'javascript'];
 const array2 = ['python', 'react', 'C++'];
